@@ -1,4 +1,4 @@
-module github.com/go-pkgz/auth
+module github.com/VaultVulp/auth
 
 require (
 	cloud.google.com/go v0.34.0 // indirect
